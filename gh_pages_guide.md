@@ -65,7 +65,7 @@ project from Travis-CI. There's a guide to how you can do that
 
 ## Completing the guide
 That was it. Really. Try to see if you can find your newly built website at
-`https://<username>.github.io/cphbusiness-3sem-cd`.
+`https://<username>.github.io/cphbusiness-sem3-cd`.
 Your project should now be continuously tested, built and
 published every time you push to your repository. Neat, right? Remember that
 you can do this for much more complicated stuff. It doesn't have to be websites.
